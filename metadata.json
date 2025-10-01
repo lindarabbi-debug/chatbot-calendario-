@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Calendar",
+  "description": "An intelligent calendar application that allows you to manage your schedule, create events, and get daily summaries through an interactive AI chat interface with voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
